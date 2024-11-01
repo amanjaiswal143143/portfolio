@@ -102,7 +102,7 @@ nav ul li a:hover::after {
     cursor: pointer;
     position: relative;
 }
-.tap-links{
+.tap-links::after{
     content: '';
     width: 0;
     height: 3px;
